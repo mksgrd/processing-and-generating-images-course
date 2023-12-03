@@ -1,4 +1,6 @@
 /imagewoof2
+/checkpoints
+/lightning_logs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
